@@ -6,8 +6,7 @@ A full-stack Team Task Management Web Application built with React, Node.js, Exp
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://illustrious-inspiration-production-80d7.up.railway.app
-- **Backend API:** https://team-task-manager-production-686a.up.railway.app
+- **Railway Live URL:** team-task-manager-production-4f7e.up.railway.app
 
 ---
 
