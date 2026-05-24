@@ -91,7 +91,7 @@ team-task-manager/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Adimehta10/team-task-manager.git
+git clone https://github.com/akashparth/team-task-manager.git
 cd team-task-manager
 ```
 
@@ -246,8 +246,8 @@ timestamps: createdAt, updatedAt
 
 ## 👨‍💻 Author
 
-**Aditya Mehta**
-- GitHub: [@Adimehta10](https://github.com/Adimehta10)
+**Akash Pathak**
+- GitHub: [@akashparth](https://github.com/akashparth)
 
 ---
 
