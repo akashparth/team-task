@@ -123,7 +123,7 @@ export default function Auth() {
                   <label>Full Name</label>
                   <div className="af-input-wrap">
                     <span className="af-icon">👤</span>
-                    <input name="name" value={form.name} onChange={handleChange} placeholder="Aditya Kumar" required />
+                    <input name="name" value={form.name} onChange={handleChange} placeholder="Akash Pathak" required />
                   </div>
                 </div>
               )}
