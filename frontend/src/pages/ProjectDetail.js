@@ -20,7 +20,10 @@ export default function ProjectDetail() {
 
   const isAdmin = project?.members?.find(m => m.user._id === user._id || m.user === user._id)?.role === 'Admin';
 
-  useEffect(() => { fetchData(); }, [id]);
+  /* eslint-disable react-hooks/exhaustive-deps */
+  useEffect(() => {
+      fetchData();
+  }, [id]);
 
   const fetchData = async () => {
     try {
